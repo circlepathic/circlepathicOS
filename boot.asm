@@ -1,5 +1,5 @@
 org 0x7c00
-%include "zfyFS.inc"
+%include "FAT12.inc"
 
 LOADERFILENAME: db "LOADER  BIN"
 
